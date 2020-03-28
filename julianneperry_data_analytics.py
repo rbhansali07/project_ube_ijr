@@ -1,1 +1,2 @@
-Print("merge conflict")
+Print("merge conflict resolved")
+
