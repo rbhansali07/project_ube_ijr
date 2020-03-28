@@ -1,1 +1,2 @@
-print("Hello Team")
+Print("merge conflict resolved")
+
